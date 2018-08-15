@@ -1,0 +1,67 @@
+body {
+  background: #edeef0;
+  margin: 0;
+}
+nav {
+  background-color: #5282b8;
+  width: 100%;
+  height: 41px;
+  margin: 0;
+}
+#olog {
+  margin-left: 100px;
+}
+form {
+  position: absolute;
+  left: 37%;
+  right: 50%;
+  padding: 14px;
+  padding-right: 4px;
+  position: relative;
+  background: #fff;
+  border-radius: 2px;
+  width: 300px;
+  box-shadow: 0 1px 0 0 #d7d8db, 0 0 0 1px #e3e4e8;
+  margin: 15px;
+}
+input {
+  font-size: 13px;
+  padding-top: 8px;
+  padding-right: 12px;
+  padding-bottom: 11px;
+  padding-left: 12px;
+  width: 270px;
+  border: 1px solid;
+  border-color: #d3d9de;
+  border-radius: 3px;
+  box-sizing: border-box;
+  margin: 6px;
+}
+#send {
+  font-size: 14px;
+  width: 110px;
+  padding: 9px 16px 11px;
+  cursor: pointer;
+  background-color: #5181b8;
+  border: 0;
+  color: #fff;
+  box-sizing: border-box;
+  vertical-align: top;
+  text-align: center;
+  margin-top: 12px;
+}
+#send:hover {
+  background-color: #5181b8;
+}
+#parol {
+  font-size: 13px;
+  font-family: arial;
+  display: inline-block;
+  margin-top: 23px;
+  margin-left: 8px;
+  color: #2a5885;
+  text-decoration: none;
+}
+#parol:hover {
+  text-decoration: underline;
+}
